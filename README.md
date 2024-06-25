@@ -2,7 +2,6 @@
 
 A MSCS Student at NYU.
 ### How to reach me 📫
-- ![LinkedIn](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/fanyang2001)
 - Email: [yangfan200158@gmail.com]
 
 <!--
