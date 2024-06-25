@@ -2,7 +2,7 @@
 
 A MSCS Student at NYU.
 ### How to reach me 📫
-- Email: [yangfan200158@gmail.com]
+- Email: yangfan200158@gmail.com
 
 <!--
 **yangfan2001/yangfan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
