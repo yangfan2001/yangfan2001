@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Fan
+
+A MSCS Student at NYU.
+### How to reach me 📫
+- ![LinkedIn](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/fanyang2001)
+- Email: [yangfan200158@gmail.com]
 
 <!--
 **yangfan2001/yangfan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
