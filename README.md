@@ -4,8 +4,10 @@ A MSCS Student at NYU.
 ### How to reach me 📫
 - Email: yangfan200158@gmail.com
 
+  
 <!--
 **yangfan2001/yangfan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fan Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangfan2001&count_private=true&show_icons=true&theme=default)
 
 Here are some ideas to get you started:
 
