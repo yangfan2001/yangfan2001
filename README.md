@@ -1,22 +1,28 @@
-## Hi there 👋 I'm Fan
+## Hi there 👋 I'm Fan (Frank) Yang  
 
-A MSCS Student at NYU.
-### How to reach me 📫
-- Email: yangfan200158@gmail.com
+🎓 MSCS student at **New York University**  
+💻 Backend engineer @ **MenuSifu** (ex-**eBay**, NYU IT, Welight Tech)  
+🏋️ Fitness enthusiast & lifelong learner  
 
-  
-<!--
-**yangfan2001/yangfan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Fan Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangfan2001&count_private=true&show_icons=true&theme=default)
+---
 
-Here are some ideas to get you started:
+### 🚀 What I’m working on
+- Building and optimizing data pipelines and reporting systems at **MenuSifu**, powering near real-time analytics for 15,000+ restaurants.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages**: JavaScript / TypeScript, Python, C/C++, SQL  
+**Frameworks**: Node.js, Express.js, React, Flask, Django  
+**Databases**: MongoDB, MySQL, PostgreSQL, DynamoDB, Redis  
+**Cloud & DevOps**: AWS, Azure DevOps, Docker  
+
+---
+
+### 📫 How to reach me
+- Email: **yangfan200158@gmail.com**  
+- LinkedIn: [linkedin.com/in/fan-yang](https://linkedin.com/in/fan-yang)  
+
+---
+
+💡 Code by day, deadlifts by night 🏋️. Consistency builds both scalable systems and strength.
